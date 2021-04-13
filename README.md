@@ -2,6 +2,10 @@
 
 ## Introdução
 
+Os grupos devem implementar o jogo **Royal Game of Ur** na forma de uma aplicação de
+consola .NET Core. O jogo deve ser PvP (_Player vs Player_), sem qualquer
+tipo de inteligência artificial.
+
 ## Regras do Jogo
 
 ## Funcionamento da Aplicação
