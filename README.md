@@ -8,6 +8,39 @@ tipo de inteligência artificial.
 
 ## Regras do Jogo
 
+* O jogo ** Royal Game of Ur** é jogado num tabuleiro com o seguinte formato:
+
+![Possível tabuleiro inicial, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/emptyboard.png "Tabuleiro vazio")
+
+* O jogo é jogado por dois jogadores onde cada jogador tem 7 peças cada.
+* O objectivo do jogo é conseguir com que todas as peças cheguem ao fim do 
+tabuleiro.
+
+![Areas especiais do tabuleiro, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/dicevalues.png 
+"Dados do Jogo e os respectivo valores")
+
+* Cada dado tem 2 pontas pintadas e não pintadas.
+* A cada turno o jogador lança 4 dados em forma de piramide (ver acima), 
+e soma todas as piramides onde calha a ponta pintada para cima.
+* O jogador avança uma peça, ou mete em jogo uma nova peça, e avança o número 
+de espaços que este obteve no lançamento dos dados.
+
+![Areas especiais do tabuleiro, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/boardspecifics.png 
+"Cima - Caminho Início até ao Fim; Esquerda - Espaço Flor; Direita - Zona Segura")
+
+* Regras Especiais:
+  * Para chegar ao fim o jogador tem que obter exatamente o mesmo valor de 
+  espaços em falta nos dados.
+  * Se a peça do jogador "cair" na peça do seu oponente na fila do meio 
+  ("danger zone"). A peça do oponente volta para a mão dele (e começa do 
+  início), e a do jogador fica com o espaço.
+    * Exceções a esta regra é quando a peça do oponente se encontra num 
+    espaço flôr (ou Flower Square).
+
+## Experimenta o Jogo!
+
+* Podes experimentar o jogo aqui: https://royalur.net/
+
 ## Funcionamento da Aplicação
 
 ### Organização do código e estrutura de classes
