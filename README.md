@@ -214,13 +214,14 @@ Estruturas de Dados][aed] do [Instituto Superior Técnico][ist]*
 
 ## Metadados
 
-* Autor: [Phil Lopes]
+* Autores: [Phil Lopes] e [Nuno Fachada]
 * Curso:  [Licenciatura em Videojogos][lamv]
 * Instituição: [Universidade Lusófona de Humanidades e Tecnologias][ULHT]
 
 [CC BY-NC-SA 4.0]:https://creativecommons.org/licenses/by-nc-sa/4.0/
 [lamv]:https://www.ulusofona.pt/licenciatura/videojogos
 [Phil Lopes]:https://github.com/worshipcookies
+[Nuno Fachada]:https://github.com/fakenmc
 [ULHT]:https://www.ulusofona.pt/
 [aed]:https://fenix.tecnico.ulisboa.pt/disciplinas/AED-2/2009-2010/2-semestre/honestidade-academica
 [ist]:https://tecnico.ulisboa.pt/pt/
