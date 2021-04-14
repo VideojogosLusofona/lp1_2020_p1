@@ -197,6 +197,17 @@ Estruturas de Dados][aed] do [Instituto Superior Técnico][ist]*
 
 ## Referências
 
+* \[1\] **Royal Game of Ur**. Retrieved from
+  <https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur>.
+* \[2\] **Royal Game of Ur**. Retrieved from
+  <https://en.wikipedia.org/wiki/Royal_Game_of_Ur>.
+* \[3\] Whitaker, R. B. (2016). **The C# Player's Guide** (3rd Edition).
+  Starbound Software.
+* \[4\] Albahari, J. (2017). **C# 7.0 in a Nutshell**. O’Reilly Media.
+* \[5\] Dorsey, T. (2017). **Doing Visual Studio and .NET Code Documentation
+  Right**. Visual Studio Magazine. Retrieved from
+  <https://visualstudiomagazine.com/articles/2017/02/21/vs-dotnet-code-documentation-tools-roundup.aspx>.
+
 ## Licenças
 
 * Este enunciado é disponibilizado através da licença [CC BY-NC-SA 4.0].
