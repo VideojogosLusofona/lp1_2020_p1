@@ -19,9 +19,10 @@ tabuleiro.
 ![Areas especiais do tabuleiro, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/dicevalues.png 
 "Dados do Jogo e os respectivo valores")
 
-* Cada dado tem 2 pontas pintadas e não pintadas.
+
 * A cada turno o jogador lança 4 dados em forma de piramide (ver acima), 
 e soma todas as piramides onde calha a ponta pintada para cima.
+* Cada dado tem 2 pontas pintadas e não pintadas.
 * O jogador avança uma peça, ou mete em jogo uma nova peça, e avança o número 
 de espaços que este obteve no lançamento dos dados.
 
@@ -42,6 +43,27 @@ de espaços que este obteve no lançamento dos dados.
 Podes experimentar o jogo aqui: https://royalur.net/
 
 ## Funcionamento da Aplicação
+
+O funcionamento exato da aplicação é da responsabilidade de cada grupo. No
+entanto, quando a aplicação começa, **deve ser claro como cada jogador joga**,
+ou seja, o jogo deve ter instruções muito claras sobre que teclas fazem o quê.
+Por outras palavras, os grupos devem ter em conta as regras importantes do
+_game design_, pois serão tidas em conta na avaliação do projeto.
+
+A aplicação deve funcionar em Windows, macOS e Linux. A melhor estratégia para
+garantir que assim seja é testar o jogo em Linux (e.g., numa máquina virtual).
+Algumas instruções incompatíveis com macOS e Linux são, por exemplo:
+
+* [Console.Beep()](https://docs.microsoft.com/dotnet/api/system.console.beep)
+* [Console.SetBufferSize()](https://docs.microsoft.com/dotnet/api/system.console.setbuffersize)
+* [Console.SetWindowPosition()](https://docs.microsoft.com/dotnet/api/system.console.setwindowposition)
+* [Console.SetWindowSize()](https://docs.microsoft.com/dotnet/api/system.console.setwindowsize)
+* Entre outras.
+
+As instruções que só funcionam em Windows têm a seguinte indicação na sua
+documentação:
+
+![The current operating system is not Windows.](img/notsupported.png "The current operating system is not Windows.")
 
 ### Organização do código e estrutura de classes
 
