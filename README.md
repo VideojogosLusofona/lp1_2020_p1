@@ -67,6 +67,13 @@ documentação:
 
 ### Organização do código e estrutura de classes
 
+O projeto deve estar devidamente organizado, fazendo uso de classes, _structs_
+e enumerações. Cada classe, _struct_ ou enumeração deve ser colocada num
+ficheiro com o mesmo nome. Por exemplo, uma classe chamada `Piece` deve ser
+colocada no ficheiro `Piece.cs`. A estrutura de classes deve ser bem pensada e
+organizada de uma forma lógica, e [cada classe deve ter uma responsabilidade
+específica e bem definida][SRP].
+
 ## Objetivos e critério de avaliação
 
 Este projeto tem os seguintes objetivos:
