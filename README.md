@@ -9,6 +9,7 @@ tipo de inteligência artificial.
 ## Regras do Jogo
 
 * O jogo **Royal Game of Ur** é jogado num tabuleiro com o seguinte formato:
+
 ![Possível tabuleiro inicial, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/emptyboard.png "Tabuleiro vazio")
 
 * O jogo é jogado por dois jogadores onde cada jogador tem 7 peças cada.
