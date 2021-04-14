@@ -8,8 +8,7 @@ tipo de inteligência artificial.
 
 ## Regras do Jogo
 
-* O jogo ** Royal Game of Ur** é jogado num tabuleiro com o seguinte formato:
-
+* O jogo **Royal Game of Ur** é jogado num tabuleiro com o seguinte formato:
 ![Possível tabuleiro inicial, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/emptyboard.png "Tabuleiro vazio")
 
 * O jogo é jogado por dois jogadores onde cada jogador tem 7 peças cada.
@@ -35,11 +34,11 @@ de espaços que este obteve no lançamento dos dados.
   ("danger zone"). A peça do oponente volta para a mão dele (e começa do 
   início), e a do jogador fica com o espaço.
     * Exceções a esta regra é quando a peça do oponente se encontra num 
-    espaço flôr (ou Flower Square).
+    espaço flor (ou Flower Square).
 
 ## Experimenta o Jogo!
 
-* Podes experimentar o jogo aqui: https://royalur.net/
+Podes experimentar o jogo aqui: https://royalur.net/
 
 ## Funcionamento da Aplicação
 
