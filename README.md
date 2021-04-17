@@ -35,7 +35,7 @@ de espaços que este obteve no lançamento dos dados.
   * Se a peça do jogador "cair" na peça do seu oponente na fila do meio 
   ("danger zone"). A peça do oponente volta para a mão dele (e começa do 
   início), e a do jogador fica com o espaço.
-    * Exceções a esta regra é quando a peça do oponente se encontra num 
+    * A única exceção a esta regra é quando a peça do oponente se encontra num 
     espaço flor (ou Flower Square).
 
 ## Experimenta o Jogo!
