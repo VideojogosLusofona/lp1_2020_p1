@@ -144,7 +144,7 @@ não comparerecem na discussão, a nota final será zero.
 ## Entrega
 
 O projeto deve ser entregue por **grupos de 2 a 3 alunos** via Moodle até às
-23h de **TO DO**. Um (e apenas um) dos elementos do grupo deve ser
+23h de 9 de maio. Um (e apenas um) dos elementos do grupo deve ser
 submeter um ficheiro `zip` com a solução completa, nomeadamente:
 
 * Pasta escondida `.git` com o repositório Git local do projeto.
