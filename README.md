@@ -13,29 +13,29 @@ tipo de inteligência artificial.
 ![Possível tabuleiro inicial, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/emptyboard.png "Tabuleiro vazio")
 
 * O jogo é jogado por dois jogadores onde cada jogador tem 7 peças cada.
-* O objectivo do jogo é conseguir com que todas as peças cheguem ao fim do 
+* O objectivo do jogo é conseguir com que todas as peças cheguem ao fim do
 tabuleiro.
 
-![Areas especiais do tabuleiro, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/dicevalues.png 
+![Areas especiais do tabuleiro, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/dicevalues.png
 "Dados do Jogo e os respectivo valores")
 
 
-* A cada turno o jogador lança 4 dados em forma de piramide (ver acima), 
+* A cada turno o jogador lança 4 dados em forma de piramide (ver acima),
 e soma todas as piramides onde calha a ponta pintada para cima.
 * Cada dado tem 2 pontas pintadas e não pintadas.
-* O jogador avança uma peça, ou mete em jogo uma nova peça, e avança o número 
+* O jogador avança uma peça, ou mete em jogo uma nova peça, e avança o número
 de espaços que este obteve no lançamento dos dados.
 
-![Areas especiais do tabuleiro, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/boardspecifics.png 
+![Areas especiais do tabuleiro, imagem adaptada de https://ludii.games/details.php?keyword=Royal%20Game%20of%20Ur](img/boardspecifics.png
 "Cima - Caminho Início até ao Fim; Esquerda - Espaço Flor; Direita - Zona Segura")
 
 * Regras Especiais:
-  * Para chegar ao fim o jogador tem que obter exatamente o mesmo valor de 
+  * Para chegar ao fim o jogador tem que obter exatamente o mesmo valor de
   espaços em falta nos dados.
-  * Se a peça do jogador "cair" na peça do seu oponente na fila do meio 
-  ("danger zone"). A peça do oponente volta para a mão dele (e começa do 
+  * Se a peça do jogador "cair" na peça do seu oponente na fila do meio
+  ("danger zone"). A peça do oponente volta para a mão dele (e começa do
   início), e a do jogador fica com o espaço.
-    * A única exceção a esta regra é quando a peça do oponente se encontra num 
+    * A única exceção a esta regra é quando a peça do oponente se encontra num
     espaço flor (ou Flower Square).
 
 ## Experimenta o Jogo!
@@ -144,7 +144,7 @@ não comparerecem na discussão, a nota final será zero.
 ## Entrega
 
 O projeto deve ser entregue por **grupos de 2 a 3 alunos** via Moodle até às
-23h de 9 de maio de 2021. Um (e apenas um) dos elementos do grupo deve ser
+23h de 16 de maio de 2021. Um (e apenas um) dos elementos do grupo deve ser
 submeter um ficheiro `zip` com a solução completa, nomeadamente:
 
 * Pasta escondida `.git` com o repositório Git local do projeto.
