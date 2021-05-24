@@ -129,12 +129,12 @@ Este projeto tem os seguintes objetivos:
     Atenção aos erros ortográficos e à correta formatação [Markdown], pois
     ambos serão tidos em conta na nota final.
 
-O projeto tem um peso de 3 valores na nota final da disciplina e será avaliado
+O projeto tem um peso de 5 valores na nota final da disciplina e será avaliado
 de forma qualitativa. Isto significa que todos os objetivos têm de ser
 parcialmente ou totalmente cumpridos. A cada objetivo, O1 a O5, será atribuída
 uma nota entre 0 e 1. A nota do projeto será dada pela seguinte fórmula:
 
-*N = 3 x O1 x O2 x O3 x O4 x O5 x D*
+*N = 5 x O1 x O2 x O3 x O4 x O5 x D*
 
 Em que *D* corresponde à nota da discussão e percentagem equitativa de
 realização do projeto, também entre 0 e 1. Isto significa que se os alunos
